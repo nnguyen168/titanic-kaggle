@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Stop tracking output.csv and notebook checkpoints
+output.csv
+.ipynb_checkpoints/
